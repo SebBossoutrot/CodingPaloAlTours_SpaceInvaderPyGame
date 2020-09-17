@@ -1,4 +1,9 @@
 # Space Invader
+
+Pour les Coding Gouter de PaloAlTours  
+Apprendre Python avec la construction d'un jeu SpaceInvader avec PyGame
+
+
 Réalisation d'un petit jeu de tir en Python avec la librairie PyGame,  
 avec déplacement d'un vaisseau de gauche à droite via les flèches du clavier  
 Tir via la touche espace 
